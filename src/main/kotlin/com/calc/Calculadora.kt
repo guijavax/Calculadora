@@ -1,5 +1,10 @@
 package com.calc
 
+
+/**
+ * @author Guilherme
+ * Classe Responsavel por executar os calculos
+ */
 class Calculadora {
     fun calcula(oper : String, num1 : Double?, num2 : Double?) = calc(oper, num1, num2)
 
